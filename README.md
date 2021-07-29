@@ -1,6 +1,6 @@
 
 
- src="https://imgflip.com/embed/5hzww9"></iframe></div><p><a href="https://imgflip.com/gif/5hzww9">via Imgflip</a></p></div>
+https://imgflip.com/gif/5hzww9
 
 # Smart Converter
 
