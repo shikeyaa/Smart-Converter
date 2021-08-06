@@ -16,3 +16,5 @@ Features:
 
 •	Displays converted Temperatures.
 
+What is Rankine Temperature?
+https://www.infoplease.com/encyclopedia/science/physics/concepts/rankine-temperature-scale
