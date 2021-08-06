@@ -15,7 +15,7 @@ Features:
 •	Allows user to reset the screen.
 
 •	Displays converted Temperatures.
-
+_______________
 About Celsius and Fahrenteit. https://sciencing.com/degree-between-celsius-vs-fahrenheit-8060500.html
 _______________
 What is Rankine Temperature?
